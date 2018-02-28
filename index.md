@@ -10,3 +10,8 @@
 
 ### changeLoginBackgroundW7.bat
 
+### forceWindowsUpdate.vbs
+- Forcer mises à jour Windows avec rapport txt (source https://msdn.microsoft.com/en-us/library/aa387102(VS.85).aspx)
+
+### enableSMB1.bat
+- Non conseillé !! 
