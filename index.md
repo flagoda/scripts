@@ -17,5 +17,4 @@
 - Force windows update to start
 
 ### enableSMB1.bat
-- Non conseillé !! 
 - Not good !!
