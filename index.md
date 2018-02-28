@@ -1,4 +1,4 @@
-## Divers scripts Powershell, Batch, VBS
+# Divers scripts Powershell, Batch, VBS
 
 ### resizeSWAP.ps1
 - Script qui change la swap a 1.5 x Mémoire RAM ou a 5 Go si la machine a plus de 6 Go de RAM
