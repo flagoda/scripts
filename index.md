@@ -9,9 +9,13 @@
 - Execute operation according to manufacturer of the computer
 
 ### changeLoginBackgroundW7.bat
+- Changer fond d'écran du login sur Windows 7
+- Change login screen on windows 7
 
 ### forceWindowsUpdate.vbs
 - Forcer mises à jour Windows avec rapport txt (source https://msdn.microsoft.com/en-us/library/aa387102(VS.85).aspx)
+- Force windows update to start
 
 ### enableSMB1.bat
 - Non conseillé !! 
+- Not good !!
