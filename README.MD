@@ -19,3 +19,11 @@
 ### enableSMB1.bat
 - Déconseillé !!
 - Not recommended !!
+
+### networkDriveNotAutoConnect.ps1
+- Les lecteurs reseaux ne sont pas reconnecté automatiquement après redemarrage ou fermeture de session. Cela nécessite un simple clic pour les ouvrir. Cela permet de se protéger des cryptolocker et ransomware
+- Not autoconnect network drive after reboot or logout to protect from cryptolocker, ransomware
+
+### autoDeleteScriptAfterExecution.bat
+- Commande qui supprime le script lui même après son execution
+- Command to delete the script after his execution
