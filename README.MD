@@ -27,3 +27,36 @@
 ### autoDeleteScriptAfterExecution.bat
 - Commande qui supprime le script lui même après son execution
 - Command to delete the script after his execution
+
+### changeLetterDrive.vbs
+- Changer un lecteur de lettre pour par exemple le libérer afin de pouvoir monter un lecteur réseau ayant besoin de ce lecteur
+- Change letter drive to, for example free letter needed to mount a network drive
+
+### deleteSysprepResponseFile.bat
+- Supprimer les fichiers de reponse du Sysprep
+- Delete Sysprep response file
+
+### disableTotalHibernation.bat
+- Desactiver complètement l'hibernation et mise en veille
+- Disable all hibernation
+
+### enableRemoteRegistry.bat
+- Activation du registre a distance
+- Enable remote registry
+
+### enableEAPwindowsService.bat
+- Configuration automatique du Service Reseau cablé pour l'EAP
+- Autoconfig for EAP
+
+### cleanPrinterDriver.ps1
+- Supprimer driver d'impression selon constructeur
+- Delete printer driver by manufacturer
+
+### disableFastBoot.ps1
+- Désactiver le FastBoot sur Windows 10
+- Disable FastBoot
+
+### thunderbirdGetPathLocalFolder.ps1
+- Récupérer le chemin des dossiers locaux de Thunderbird pour l'utilisateur courant
+- Get local folder path of thunderbird
+
