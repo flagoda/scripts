@@ -60,3 +60,8 @@
 - Récupérer le chemin des dossiers locaux de Thunderbird pour l'utilisateur courant
 - Get local folder path of thunderbird
 
+### mitigationsSpectreMeltdown.bat
+- Atténuations Spectre / Meltdown
+- Mitigations Spectre / Meltdown
+
+
