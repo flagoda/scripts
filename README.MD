@@ -64,8 +64,8 @@
 - Atténuations Spectre / Meltdown
 - Mitigations Spectre / Meltdown
 
-### keepLast15_Recent_records_mysql.sql
+### keepLast15_Most_Recent_records_mysql.sql
 - Mysql : Supprimer toutes lignes d'une table sauf les 15 plus récentes
-- Mysql : Delete all records except last 15 more recent
+- Mysql : Delete all records except last 15 most recent
 
 
