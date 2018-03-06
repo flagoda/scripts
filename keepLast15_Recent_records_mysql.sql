@@ -1,4 +1,4 @@
--- keepLast15_Recent_records
+-- keepLast15_Recent_records , MySQL
 DELETE 
 FROM `myTable`
 WHERE `myTimestamp` not in (
