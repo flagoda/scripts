@@ -16,7 +16,7 @@
 *.exe binary
 
 # Def detect language
-*.ps1 linguist-language=Powershell
-*.bat linguist-language=Batch
-*.cmd linguist-language=Batch
-*.sql linguist-language=SQL
+#*.ps1 linguist-language=Powershell
+#*.bat linguist-language=Batchfile
+#*.cmd linguist-language=Batchfile
+#*.sql linguist-language=SQL
