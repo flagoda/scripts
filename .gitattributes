@@ -1,18 +1,2 @@
 # Set default behaviour, in case users don't have core.autocrlf set.
 * text=auto
-
-# Explicitly declare text files we want to always be normalized and converted
-# to native line endings on checkout.
-*.md            text
-*.gitattributes text
-
-# Declare files that will always have CRLF line endings on checkout.
-*.ps1    text  eol=crlf
-*.xml    text  eol=crlf
-*.txt    text  eol=crlf
-
-# Def detect language
-#*.ps1 linguist-language=Powershell
-#*.bat linguist-language=Batchfile
-#*.cmd linguist-language=Batchfile
-#*.sql linguist-language=SQL
