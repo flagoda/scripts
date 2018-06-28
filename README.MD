@@ -68,4 +68,6 @@
 - Mysql : Supprimer toutes lignes d'une table sauf les 15 plus récentes
 - Mysql : Delete all records except 15 most recent
 
-
+### UEFI_or_Legacy.sh
+- Savoir si on est en UEFI
+- Am i in UEFI 
