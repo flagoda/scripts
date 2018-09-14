@@ -71,3 +71,6 @@
 ### UEFI_or_Legacy.sh
 - Savoir si on est en UEFI
 - Am i in UEFI 
+
+### ForcePxeBoot_DellCommandConfigure.ps1
+- Set PXE on first boot order UEFI, Dell Workstations, Dell Command Configure
