@@ -74,3 +74,6 @@
 
 ### ForcePxeBoot_DellCommandConfigure.ps1
 - Set PXE on first boot order UEFI, Dell Workstations, Dell Command Configure
+
+### bitlocker_generator_recovery_key.py
+- Generate random recovery key for bitlocker
