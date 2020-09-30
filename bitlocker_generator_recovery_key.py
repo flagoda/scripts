@@ -1,4 +1,12 @@
 import random
+"""
+Generate random Bitlocker recovery keys
+Constraints:
+-48 numbers (8 groups of 6 numbers)
+Each groups of 6 numbers :
+-Divisible by 11
+-Lower than 720896
+"""
 
 key = []
 for _ in range(8):
