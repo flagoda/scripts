@@ -28,10 +28,6 @@
 - Commande qui supprime le script lui même après son execution
 - Command to delete the script after his execution
 
-### changeLetterDrive.vbs
-- Changer un lecteur de lettre pour par exemple le libérer afin de pouvoir monter un lecteur réseau ayant besoin de ce lecteur
-- Change letter drive to, for example free letter needed to mount a network drive
-
 ### deleteSysprepResponseFile.bat
 - Supprimer les fichiers de reponse du Sysprep
 - Delete Sysprep response file
